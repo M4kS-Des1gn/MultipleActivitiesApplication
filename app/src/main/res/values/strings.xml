@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MultipleActivitiesApplication</string>
+    <string name="count">Count</string>
+    <string name="count_initial">0</string>
+    <string name="hello">Hello!</string>
+    <string name="activity_3">Activity 3</string>
+    <string name="go_activity_1">Go to activity 1</string>
+    <string name="go_activity_2">Go to activity 2</string>
+    <string name="go_activity_3">Go to activity 3</string>
+    <string name="swipe_hint">Swipe left for activity 1, right for activity 2</string>
 </resources>
